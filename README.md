@@ -147,8 +147,8 @@ Train: Loss=0.0109 Batch_id=117 Accuracy=99.03: 100%|█████████
 
 Test set: Average loss: 0.0213, Accuracy: 9935/10000 (99.35%)
 # Visualization(Curves):
-![Alt text](<img width="841" alt="Screenshot 2023-06-03 at 7 16 30 AM" src="https://github.com/katipallyvig8899/ERA/assets/45558037/ef5be865-5a37-43d6-98bc-e05ea6acab1d">
-)
+<img width="841" alt="Screenshot 2023-06-03 at 7 16 30 AM" src="https://github.com/katipallyvig8899/ERA/assets/45558037/a374fbb5-66cd-4492-89b6-55e3dc06379a">
+
 Observations :
 
 Training accuracy: 99.03 %
